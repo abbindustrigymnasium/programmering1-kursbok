@@ -134,20 +134,6 @@ Organisationen ACM har skrivit en [etisk kod](https://www.acm.org/code-of-ethics
 6. Vilka frågor kan du ställa för att analysera en etisk fråga?
 7. När är det rimligt att använda AI som hjälp i en programmeringsuppgift, och när är det inte det?
 
-## Övningar
-
-Materialet finns i [Generativ AI-repot](https://github.com/abbjetmus/Generative-AI-Hitachigymnasiet) och [Generative AI with JavaScript](https://github.com/abbjetmus/generative-ai-with-javascript/tree/main/lessons).
-
-**Grund 1.** Ställ samma fråga till en språkmodell med en svag och en bra prompt. Jämför svaren och skriv ner vad som skiljer.
-
-**Grund 2.** Be en språkmodell ange tre källor om ett ämne du kan. Kontrollera om de finns och om de säger det modellen påstår.
-
-**Vidare 3.** Gör lektion 2 i Generative AI with JavaScript och kör ett eget API-anrop. Lägg till en systemprompt.
-
-**Vidare 4.** Bygg om exemplet så att konversationen fortsätter med flera frågor. Vad händer om du inte skickar med historiken?
-
-**Utmaning 5.** Välj ett program du använder ofta. Använd frågorna i avsnittet om etisk analys och skriv en kort text: vilka berörs, vad kan gå fel och vad skulle du göra annorlunda?
-
 ## Koppling till projektet
 
 Kapitlet förbereder [Generativ AI](../projekt/generativ-ai/README.md), där du bygger och presenterar en egen AI-app. Delen om samhälle hör ihop med [Etik](../projekt/etik/README.md) och med kursens syfte om sociala aspekter av programmering.

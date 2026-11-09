@@ -165,22 +165,6 @@ När spelet är klart exporterar du det till en körbar fil via Project och Expo
 6. Vad kan ett *null instance*-fel bero på?
 7. Varför är det viktigt att någon annan testar ditt spel?
 
-## Övningar
-
-**Grund 1.** Följ [Your first 2D game](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html) i Godots dokumentation.
-
-**Grund 2.** En spelare rör sig med 150 pixlar per sekund och spelet körs i 60 bildrutor per sekund. Hur långt flyttas spelaren varje bildruta?
-
-<details><summary>Svar</summary>150 / 60 = 2,5 pixlar per bildruta</details>
-
-**Vidare 3.** Gravitation läggs till varje bildruta med `velocity.y += 980 * delta`. Hur stor är den fallande hastigheten efter en halv sekund, om den startar på noll?
-
-<details><summary>Svar</summary>980 · 0,5 = 490 pixlar per sekund</details>
-
-**Vidare 4.** Gör övningarna om klasser i [JavaScript-övningarna](https://github.com/abbindustrigymnasium/programmering1/tree/main/Javascript/%C3%B6vningar) eller [C++-övningarna](https://github.com/abbindustrigymnasium/programmering1/tree/main/C%2B%2B/%C3%B6vningar) och beskriv vad som motsvarar en klass och ett objekt i ditt spel.
-
-**Utmaning 5.** Rita ett tillståndsdiagram för ditt eget spel och skriv pseudokod för fiendens beteende. Bygg sedan en fiende som patrullerar fram och tillbaka och börjar jaga spelaren när den kommer nära.
-
 ## Koppling till projektet
 
 Kapitlet förbereder [2D-Spel](../projekt/2d-spel/README.md), där du planerar, bygger och exporterar ett eget spel. Vill du läsa mer om OOP finns genomgångar i kursens [mapp om objektorienterad programmering](https://github.com/abbindustrigymnasium/programmering1/tree/main/Object-Orienterad-Programmering).

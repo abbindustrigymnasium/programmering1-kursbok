@@ -142,22 +142,6 @@ Versionshantering är ett arbetssätt, inte bara ett sätt att lämna in. Gör e
 6. Hur uppstår en konflikt och vad gör du för att lösa den?
 7. Varför räcker det inte att ta bort en nyckel i en senare commit?
 
-## Övningar
-
-Kursens guide finns i mappen [Git-Github](https://github.com/abbindustrigymnasium/programmering1/tree/main/Git-Github) och visar stegen både i terminalen och i VS Code.
-
-**Grund 1.** Skapa ett repo, lägg till en HTML-fil, gör en commit och pusha till GitHub. Titta på resultatet på github.com.
-
-**Grund 2.** Ändra filen direkt på github.com och hämta ändringen med `git pull`. Kör `git log --oneline` och beskriv vad du ser.
-
-**Grund 3.** Skapa en `.gitignore` som utesluter `secrets.h`. Skapa filen och visa med `git status` att Git inte bryr sig om den.
-
-**Vidare 4.** Skapa en gren, gör två commits på den och slå ihop den med `main`.
-
-**Vidare 5.** Skapa med flit en konflikt: ändra samma rad på två grenar och slå ihop dem. Lös konflikten för hand.
-
-**Utmaning 6.** Samarbeta med en kompis i samma repo. Båda arbetar i egna grenar och gör en pull request till `main`. Granska varandras kod och kommentera innan ni slår ihop.
-
 ## Koppling till projektet
 
 Kapitlet hör till projektet [Versionshantering](../projekt/versionshantering/README.md) och används i alla andra projekt, eftersom koden i kursen lämnas in på GitHub. I [Hetaste Laget PROG](../projekt/hetaste-laget/README.md) är det särskilt viktigt att hålla Wi-Fi-lösenord och nycklar utanför repot.

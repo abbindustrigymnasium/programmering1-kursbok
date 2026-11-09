@@ -171,24 +171,6 @@ När något inte fungerar kan felet sitta i koden, i kopplingen, i kabeln eller 
 6. Vad ska programmet göra om sensorn inte svarar?
 7. Hur tar du reda på om ett problem sitter i koden eller i kopplingen?
 
-## Övningar
-
-Övningar finns i [C++-övningarna](https://github.com/abbindustrigymnasium/programmering1/tree/main/C%2B%2B/%C3%B6vningar) och [ESP8266-övningarna](https://github.com/abbindustrigymnasium/programmering1/tree/main/ESP8266/%C3%B6vningar).
-
-**Grund 1.** Gör övningen att blinka en lysdiod på ESP8266.
-
-**Grund 2.** Gör C++-övningarna om variabler, if-satser och loopar.
-
-**Grund 3.** Ett program mäter var femte sekund. Hur många mätningar blir det på ett dygn? Hur många byte blir det om varje mätning tar 50 byte när den sparas?
-
-<details><summary>Svar</summary>Ett dygn har 86 400 sekunder, så det blir 86 400 / 5 = 17 280 mätningar. 17 280 · 50 = 864 000 byte, alltså 864 kB per dygn.</details>
-
-**Vidare 4.** Läs av sensorn och skriv ut temperatur och luftfuktighet i Serial Monitor.
-
-**Vidare 5.** Lägg till en lysdiod som lyser när temperaturen är över ett gränsvärde. Skriv gränsvärdet som en konstant.
-
-**Utmaning 6.** Använd `millis()` för att låta en lysdiod blinka varje sekund samtidigt som sensorn läses var femte sekund, utan `delay` i `loop()`.
-
 ## Koppling till projektet
 
 Kapitlet täcker den första delen av [Hetaste Laget PROG](../projekt/hetaste-laget/README.md), från att få en lysdiod att blinka till att läsa sensorn och koppla upp mot Wi-Fi.

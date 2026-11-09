@@ -128,24 +128,6 @@ Webbläsarens **utvecklarverktyg** (tangenten F12) är ett av dina viktigaste hj
 6. Ge ett exempel på något som passar en dator bra och något som passar den dåligt, och motivera.
 7. Vad är skillnaden mellan internet och webben?
 
-## Övningar
-
-**Grund 1.** Omvandla det binära talet `1101` till ett decimaltal.
-
-<details><summary>Svar</summary>8 + 4 + 0 + 1 = 13</details>
-
-**Grund 2.** Hur många olika värden kan lagras i 16 bitar?
-
-<details><summary>Svar</summary>2<sup>16</sup> = 65 536 värden</details>
-
-**Grund 3.** Öppna en webbsida, tryck F12 och öppna fliken Network. Ladda om sidan. Hur många förfrågningar görs? Vilken statuskod har den första?
-
-**Vidare 4.** Skriv `0.1 + 0.2 === 0.3` i konsolen. Vad blir resultatet? Hur borde du jämföra decimaltal i stället?
-
-<details><summary>Svar</summary>Resultatet är <code>false</code>. Jämför i stället om skillnaden är väldigt liten, till exempel <code>Math.abs((0.1 + 0.2) - 0.3) &lt; 0.000001</code>, vilket ger <code>true</code>.</details>
-
-**Utmaning 5.** Rita din egen bild av vad som händer från det att du trycker på en knapp på en webbsida tills texten på sidan ändras. Ta med alla lager från det här kapitlet.
-
 ## Koppling till projektet
 
 Kapitlet ger bakgrunden till [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md), där du börjar skriva kod för webben. Det förklarar också varför du senare i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md) måste tänka annorlunda på en mikrokontroller än i en webbläsare. På provet ska du kunna förklara hur språken fungerar och vad de används till.

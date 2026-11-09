@@ -183,31 +183,6 @@ Några tumregler:
 6. Varför är ett tomt `catch` dåligt?
 7. Vad är ett bra och ett dåligt exempel på en kommentar?
 
-## Övningar
-
-**Grund 1.** Vad är felet i koden, och vilken feltyp är det?
-
-```js
-function summa(lista) {
-  let s = 0;
-  for (let i = 0; i <= lista.length; i++) {
-    s = s + lista[i];
-  }
-  return s;
-}
-console.log(summa([1, 2, 3]));
-```
-
-<details><summary>Svar</summary>Loopen går ett varv för långt, eftersom villkoret ska vara <code>i &lt; lista.length</code>. Sista varvet blir <code>lista[3]</code>, som är <code>undefined</code>. Då blir summan <code>NaN</code>. Det är ett logiskt fel, eftersom koden körs utan felmeddelande.</details>
-
-**Grund 2.** Skriv pseudokod för ett program som tar en lista med provresultat och räknar ut hur många som har minst 50 poäng.
-
-**Vidare 3.** Gör ett flödesdiagram för din morgonrutin eller för ett enkelt spel, med minst två val och en loop. Du kan använda papper eller [Mermaid](https://mermaid.js.org/syntax/flowchart.html) direkt i en `.md`-fil på GitHub.
-
-**Vidare 4.** Lägg till undantagshantering i `tolkaMatning` så att den kastar ett fel även om talet är lägre än -40 eller högre än 80. Testa med flera värden.
-
-**Utmaning 5.** Ta en övning du redan har gjort i JavaScript och förbättra den utifrån tumreglerna i kapitlet. Lägg till testfall i en tabell. Hittade du något fel du inte märkt tidigare?
-
 ## Koppling till projektet
 
 Metoderna här används i alla projekt, och särskilt på provet i [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md). Pseudokod och flödesdiagram är en del av planeringen i [2D-Spel](../projekt/2d-spel/README.md), och felsökning av hela kedjan från sensor till skärm behövs i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md).

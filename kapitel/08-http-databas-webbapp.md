@@ -195,20 +195,6 @@ Oavsett verktyg, tänk på användaren: visa det viktigaste värdet först, med 
 6. Vad skyddar databasen, och varför är det inte `apiKey`?
 7. Vad betyder att ett ramverk är reaktivt?
 
-## Övningar
-
-Övningarna finns i [HTTP och API:er](https://github.com/abbindustrigymnasium/programmering1/tree/main/HTTP%20och%20APIer/%C3%96vningar), i [temperaturprojektets Firebase-övningar](https://github.com/abbindustrigymnasium/programmering1/tree/main/Projekt-Temperatur-Sensor/Exempel/%C3%96vningar) och i [Vue-mappen](https://github.com/abbindustrigymnasium/programmering1/tree/main/Vue).
-
-**Grund 1.** Gör övningarna i HTTP och API:er: `setTimeout` med callback och `fetch` mot JSONPlaceholder.
-
-**Grund 2.** Hämta en lista från `/todos` och visa de fem första titlarna på din sida med hjälp av DOM.
-
-**Vidare 3.** Hämta data från ett annat öppet API. Vad händer i din app om nätet är nere?
-
-**Vidare 4.** Få igång [exemplet i temperaturprojektets mapp](https://github.com/abbindustrigymnasium/programmering1/tree/main/Projekt-Temperatur-Sensor/Exempel), så att du kan tända och släcka lysdioden från webbsidan.
-
-**Utmaning 5.** Lägg till en parameter i webbappen, till exempel ett gränsvärde, som sparas i databasen och läses av ESP8266 så att kortet ändrar sitt beteende.
-
 ## Koppling till projektet
 
 Kapitlet täcker delarna HTTP, databas och webbapp i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md). Samma sätt att anropa ett API används senare i [Generativ AI](../projekt/generativ-ai/README.md).

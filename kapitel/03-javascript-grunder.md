@@ -171,32 +171,6 @@ Den största skillnaden är att C++ är **statiskt typat**: du måste bestämma 
 6. Vad är skillnaden mellan en array och ett objekt? Ge ett exempel på när du använder vardera.
 7. Vad menas med att C++ är statiskt typat?
 
-## Övningar
-
-Övningarna finns i kursens repo: [JavaScript-övningar](https://github.com/abbindustrigymnasium/programmering1/tree/main/Javascript/%C3%B6vningar). Genomgångar och länkar till varje område hittar du i mappen [Javascript](https://github.com/abbindustrigymnasium/programmering1/tree/main/Javascript).
-
-**Grund 1.** Gör avsnitten Variabler, Datatyper, Operatorer, Jämförelser, If-satser, Loopar och Switch-satsen i övningsmappen.
-
-**Grund 2.** Vad skriver koden ut? Tänk först, kör sedan.
-
-```js
-let x = 10;
-x = x % 4;
-console.log(x * 3);
-```
-
-<details><summary>Svar</summary>10 % 4 = 2 och 2 · 3 = 6, så koden skriver ut 6.</details>
-
-**Grund 3.** Skriv en loop som summerar talen från 1 till 10.
-
-<details><summary>Svar</summary>Summan blir 55.</details>
-
-**Vidare 4.** Gör avsnitten Funktioner, Objekt, Listor och Arrow functions i övningsmappen.
-
-**Vidare 5.** Skriv en funktion som tar emot en array med temperaturer och ett gränsvärde och returnerar hur många värden som ligger över gränsvärdet.
-
-**Utmaning 6.** Gör avsnittet Array filter med arrow functions. Skriv en funktion som tar emot `historik` från exemplet och returnerar medeltemperaturen för ett valt rum. Testa din funktion med ett rum som inte finns. Vad händer, och hur vill du att det ska fungera?
-
 ## Koppling till projektet
 
 Kapitlet täcker JavaScript-delen av [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md), som avslutas med prov. Samma grunder använder du sedan i varje annat projekt i kursen.

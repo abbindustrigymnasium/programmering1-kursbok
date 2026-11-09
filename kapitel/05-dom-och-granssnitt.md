@@ -166,22 +166,6 @@ Testa alltid på någon annan. Be en kompis att göra en uppgift med ditt progra
 6. Vad händer om du tar bort `preventDefault()` i exemplet?
 7. Vad betyder det att ett program är anpassat till syfte, användare och tillgänglighet?
 
-## Övningar
-
-Övningarna finns i kursens repo: [DOM-övningar](https://github.com/abbindustrigymnasium/programmering1/tree/main/Document-Object-Model%20%28DOM%29/%C3%96vningar). Genomgången finns i [DOM-mappen](https://github.com/abbindustrigymnasium/programmering1/tree/main/Document-Object-Model%20%28DOM%29).
-
-**Grund 1.** Gör DOM-övningarna 1 till 4, som handlar om att hitta element och läsa attribut.
-
-**Grund 2.** Gör DOM-övningarna 5 till 8, som handlar om klick, inmatning och formulär.
-
-**Grund 3.** Bygg temperaturvakten i exemplet och få den att fungera.
-
-**Vidare 4.** Lägg till CSS för klassen `varning` och en text som talar om hur långt över gränsen temperaturen ligger. Vad ska hända om något fält är tomt?
-
-**Vidare 5.** Gör DOM-övning 9, om dynamiskt innehåll.
-
-**Utmaning 6.** Bygg en lista med mätningar: varje gång användaren klickar på Lägg till skapas ett nytt element med `document.createElement`. Visa medelvärdet under listan och lägg till en knapp som tar bort den senaste mätningen.
-
 ## Koppling till projektet
 
 Kapitlet täcker DOM-delen av [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md). Webbappen i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md) bygger på samma principer: du läser värden, visar dem och låter användaren ändra en parameter. Även din AI-app i [Generativ AI](../projekt/generativ-ai/README.md) behöver ett tydligt gränssnitt.

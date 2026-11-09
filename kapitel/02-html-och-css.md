@@ -173,20 +173,6 @@ Prova själv: stäng av musen och försök använda din sida bara med tabbtangen
 6. Vad händer med bredden på en låda när du lägger till `box-sizing: border-box`?
 7. Vad är en mediafråga bra för?
 
-## Övningar
-
-**Grund 1.** Gör [HTML-övningarna 1 till 3](https://github.com/abbindustrigymnasium/programmering1/tree/main/HTML/%C3%96vningar) och [CSS-övningarna 1 och 2](https://github.com/abbindustrigymnasium/programmering1/tree/main/CSS/%C3%96vningar).
-
-**Grund 2.** En låda har `width: 300px`, `padding: 10px`, `border: 5px` och `margin: 15px`. Hur mycket plats tar den i bredd utan `box-sizing: border-box`?
-
-<details><summary>Svar</summary>300 + 2 · 10 + 2 · 5 + 2 · 15 = 360 px</details>
-
-**Vidare 3.** Gör CSS-övningarna 3 till 5 och bygg en egen sida med minst två undersidor. Testa den i mobilläge i utvecklarverktygen.
-
-**Vidare 4.** Gå igenom din sida med listan i avsnittet om tillgänglighet och rätta det du hittar. Skriv ner vad du ändrade.
-
-**Utmaning 5.** Gör om menyn på din sida med Flexbox så att den blir en kolumn på smala skärmar. Lägg till tangentbordsfokus som syns tydligt med `:focus-visible`.
-
 ## Koppling till projektet
 
 Det här kapitlet motsvarar de första två delarna av [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md). Du tränar på det som kommer på provet och du bygger grunden till webbappen i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md).

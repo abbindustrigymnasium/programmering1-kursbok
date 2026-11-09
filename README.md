@@ -10,8 +10,7 @@ En översikt över kursen, dess delar och projekt: [Programmering 1 - Kurspresen
 
 1. Läs kapitlen i ordning. De följer kursens gång och bygger på varandra.
 2. Kör exemplen själv. Du lär dig mycket mer av att skriva koden och ändra den än av att bara läsa den.
-3. Gör övningarna märkta **Grund** först och fortsätt sedan med **Vidare** och **Utmaning**.
-4. Använd projektmappen när du startar ett projekt. Där står vad som ska göras, hur arbetet går till och hur det bedöms.
+3. Använd projektmappen när du startar ett projekt. Där står vad som ska göras, hur arbetet går till och hur det bedöms.
 
 Övningarna ligger i [kursens övningsrepo](https://github.com/abbindustrigymnasium/programmering1). Boken förklarar och länkar dit.
 
