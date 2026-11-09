@@ -2,6 +2,10 @@
 
 Det här är kursboken för Programmering nivå 1 (PROG1000X) på Hitachigymnasiet. Du lär dig programmera från grunden i HTML, CSS och JavaScript och använder sedan det du kan på en uppkopplad sensor, i ett eget 2D-spel och i en egen AI-app. Längs vägen lär du dig också hur datorer fungerar, hur du löser problem strukturerat och hur program påverkar människor.
 
+## Kurspresentation
+
+En översikt över kursen, dess delar och projekt: [Programmering 1 - Kurspresentation.pptx](Programmering%201%20-%20Kurspresentation.pptx)
+
 ## Så använder du boken
 
 1. Läs kapitlen i ordning. De följer kursens gång och bygger på varandra.
