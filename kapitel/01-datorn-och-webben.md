@@ -118,16 +118,6 @@ Webbläsarens **utvecklarverktyg** (tangenten F12) är ett av dina viktigaste hj
 - **Klient och server:** den som ställer en fråga och den som svarar
 - **IDE:** ett program som samlar verktygen för programutveckling
 
-## Testa dig själv
-
-1. Vilka tre steg upprepar processorn hela tiden?
-2. Varför ger `0.1 + 0.2` inte exakt `0.3` i JavaScript?
-3. Vad gör operativsystemet som ett program inte behöver göra självt?
-4. Vad är skillnaden mellan exekveringsmiljön för JavaScript och den för din kod på en ESP8266?
-5. Varför är HTML inte ett programspråk?
-6. Ge ett exempel på något som passar en dator bra och något som passar den dåligt, och motivera.
-7. Vad är skillnaden mellan internet och webben?
-
 ## Koppling till projektet
 
 Kapitlet ger bakgrunden till [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md), där du börjar skriva kod för webben. Det förklarar också varför du senare i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md) måste tänka annorlunda på en mikrokontroller än i en webbläsare. På provet ska du kunna förklara hur språken fungerar och vad de används till.

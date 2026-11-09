@@ -132,16 +132,6 @@ Versionshantering är ett arbetssätt, inte bara ett sätt att lämna in. Gör e
 - **Konflikt:** när Git inte kan slå ihop ändringar själv
 - **.gitignore:** en fil som listar vad Git inte ska spara
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan Git och GitHub?
-2. Vad händer i de tre områdena när du ändrar en fil och sparar den med `git add` och `git commit`?
-3. Vad är skillnaden mellan `git commit` och `git push`?
-4. Varför är "fix" ett dåligt commit-meddelande?
-5. Varför arbetar man i grenar i ett grupparbete?
-6. Hur uppstår en konflikt och vad gör du för att lösa den?
-7. Varför räcker det inte att ta bort en nyckel i en senare commit?
-
 ## Koppling till projektet
 
 Kapitlet hör till projektet [Versionshantering](../projekt/versionshantering/README.md) och används i alla andra projekt, eftersom koden i kursen lämnas in på GitHub. I [Hetaste Laget PROG](../projekt/hetaste-laget/README.md) är det särskilt viktigt att hålla Wi-Fi-lösenord och nycklar utanför repot.

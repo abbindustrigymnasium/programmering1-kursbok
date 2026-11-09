@@ -173,16 +173,6 @@ Några tumregler:
 - **Brytpunkt:** en rad där debuggern pausar programmet
 - **Undantag:** ett fel under körningen som kan fångas och hanteras
 
-## Testa dig själv
-
-1. Varför ska du planera innan du skriver kod, även för små problem?
-2. Vad är skillnaden mellan ett syntaxfel och ett logiskt fel?
-3. Varför är logiska fel svårast att hitta?
-4. Vad är en brytpunkt och vad använder du den till?
-5. När ska du använda `try` och `catch`?
-6. Varför är ett tomt `catch` dåligt?
-7. Vad är ett bra och ett dåligt exempel på en kommentar?
-
 ## Koppling till projektet
 
 Metoderna här används i alla projekt, och särskilt på provet i [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md). Pseudokod och flödesdiagram är en del av planeringen i [2D-Spel](../projekt/2d-spel/README.md), och felsökning av hela kedjan från sensor till skärm behövs i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md).

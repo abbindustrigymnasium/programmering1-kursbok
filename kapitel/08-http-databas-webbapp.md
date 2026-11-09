@@ -185,16 +185,6 @@ Oavsett verktyg, tänk på användaren: visa det viktigaste värdet först, med 
 - **Databas:** ett program som lagrar och hämtar data
 - **Reaktivitet:** att sidan uppdateras automatiskt när datan ändras
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan GET och POST?
-2. Vad betyder statuskoderna 200, 404 och 500?
-3. Varför kan inte din webbsida bara vänta rad för rad på svaret från ett API?
-4. Varför behöver du själv kontrollera `svar.ok` när du använder `fetch`?
-5. Varför pratar ESP8266 och webbappen inte direkt med varandra i projektet?
-6. Vad skyddar databasen, och varför är det inte `apiKey`?
-7. Vad betyder att ett ramverk är reaktivt?
-
 ## Koppling till projektet
 
 Kapitlet täcker delarna HTTP, databas och webbapp i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md). Samma sätt att anropa ett API används senare i [Generativ AI](../projekt/generativ-ai/README.md).

@@ -155,16 +155,6 @@ När spelet är klart exporterar du det till en körbar fil via Project och Expo
 - **Signal:** ett meddelande som ett objekt skickar när något händer
 - **Tillståndsdiagram:** en bild av vilka lägen ett program kan vara i och hur det går mellan dem
 
-## Testa dig själv
-
-1. Vilka steg ingår i en spelloop?
-2. Vad är skillnaden mellan en klass och ett objekt? Ge ett exempel från ett spel.
-3. Vad är skillnaden mellan en nod och en scen?
-4. Varför multiplicerar man med `delta`?
-5. Varför är signaler bättre än att spelaren ändrar poängen direkt?
-6. Vad kan ett *null instance*-fel bero på?
-7. Varför är det viktigt att någon annan testar ditt spel?
-
 ## Koppling till projektet
 
 Kapitlet förbereder [2D-Spel](../projekt/2d-spel/README.md), där du planerar, bygger och exporterar ett eget spel. Vill du läsa mer om OOP finns genomgångar i kursens [mapp om objektorienterad programmering](https://github.com/abbindustrigymnasium/programmering1/tree/main/Object-Orienterad-Programmering).

@@ -163,16 +163,6 @@ Prova själv: stäng av musen och försök använda din sida bara med tabbtangen
 - **Responsiv design:** att sidan anpassar sig efter skärmens storlek
 - **Tillgänglighet:** att fler människor, även med funktionsnedsättning, kan använda sidan
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan `<head>` och `<body>`?
-2. Vad är skillnaden mellan `class` och `id`?
-3. Varför ska en bild ha ett `alt`-attribut?
-4. Varför är en relativ sökväg bättre än en sökväg från din egen dator?
-5. Vilken regel vinner om både `p { color: red; }` och `.text { color: blue; }` gäller samma stycke, och varför?
-6. Vad händer med bredden på en låda när du lägger till `box-sizing: border-box`?
-7. Vad är en mediafråga bra för?
-
 ## Koppling till projektet
 
 Det här kapitlet motsvarar de första två delarna av [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md). Du tränar på det som kommer på provet och du bygger grunden till webbappen i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md).

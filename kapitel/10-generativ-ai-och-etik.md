@@ -124,16 +124,6 @@ Organisationen ACM har skrivit en [etisk kod](https://www.acm.org/code-of-ethics
 - **Miljövariabel:** en inställning som läses från systemet i stället för koden
 - **Personuppgift:** information som kan knytas till en levande person
 
-## Testa dig själv
-
-1. Varför kan en språkmodell ge ett felaktigt svar som ändå låter rätt?
-2. Vad är skillnaden mellan rollerna `system`, `user` och `assistant`?
-3. Varför måste en chatt skicka hela historiken vid varje anrop?
-4. Varför får API-nyckeln inte ligga i kod som körs i webbläsaren?
-5. Ge ett exempel på hur ett program kan missgynna en grupp människor.
-6. Vilka frågor kan du ställa för att analysera en etisk fråga?
-7. När är det rimligt att använda AI som hjälp i en programmeringsuppgift, och när är det inte det?
-
 ## Koppling till projektet
 
 Kapitlet förbereder [Generativ AI](../projekt/generativ-ai/README.md), där du bygger och presenterar en egen AI-app. Delen om samhälle hör ihop med [Etik](../projekt/etik/README.md) och med kursens syfte om sociala aspekter av programmering.

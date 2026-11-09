@@ -156,16 +156,6 @@ Testa alltid på någon annan. Be en kompis att göra en uppgift med ditt progra
 - **XSS:** en säkerhetsbrist där någon får in skadlig kod på en sida
 - **Användargränssnitt:** allt användaren ser och kan interagera med
 
-## Testa dig själv
-
-1. Vad är DOM och varför behövs det?
-2. Vad gör `defer` och varför är det användbart?
-3. Vad är skillnaden mellan `querySelector` och `querySelectorAll`?
-4. Varför är `innerHTML` riskabelt med text från användaren?
-5. Varför behövs `Number(...)` när du läser ett fält?
-6. Vad händer om du tar bort `preventDefault()` i exemplet?
-7. Vad betyder det att ett program är anpassat till syfte, användare och tillgänglighet?
-
 ## Koppling till projektet
 
 Kapitlet täcker DOM-delen av [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md). Webbappen i [Hetaste Laget PROG](../projekt/hetaste-laget/README.md) bygger på samma principer: du läser värden, visar dem och låter användaren ändra en parameter. Även din AI-app i [Generativ AI](../projekt/generativ-ai/README.md) behöver ett tydligt gränssnitt.

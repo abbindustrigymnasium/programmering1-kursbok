@@ -161,16 +161,6 @@ Den största skillnaden är att C++ är **statiskt typat**: du måste bestämma 
 - **Objekt:** en samling namngivna värden
 - **Spårning:** att följa variablernas värden steg för steg
 
-## Testa dig själv
-
-1. När ska du använda `const` och när ska du använda `let`?
-2. Varför blir `"5" + 3` något annat än `"5" * 2`?
-3. Varför är `===` säkrare än `==`?
-4. Vad händer om du skriver `i <= matningar.length` i loopen ovan?
-5. Vad är skillnaden mellan en parameter och ett returvärde?
-6. Vad är skillnaden mellan en array och ett objekt? Ge ett exempel på när du använder vardera.
-7. Vad menas med att C++ är statiskt typat?
-
 ## Koppling till projektet
 
 Kapitlet täcker JavaScript-delen av [Programmeringsintroduktion](../projekt/programmeringsintroduktion/README.md), som avslutas med prov. Samma grunder använder du sedan i varje annat projekt i kursen.

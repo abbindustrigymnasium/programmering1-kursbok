@@ -161,16 +161,6 @@ När något inte fungerar kan felet sitta i koden, i kopplingen, i kabeln eller 
 - **Bibliotek:** färdig kod som du återanvänder
 - **Statisk typning:** att typen bestäms när koden skrivs
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan `setup()` och `loop()`?
-2. Varför måste du tänka mer på minnet på en ESP8266 än i en webbläsare?
-3. Vad är skillnaden mellan `delay` och `millis`?
-4. Varför används `unsigned long` för tid?
-5. Varför ska Wi-Fi-lösenordet ligga i en separat fil?
-6. Vad ska programmet göra om sensorn inte svarar?
-7. Hur tar du reda på om ett problem sitter i koden eller i kopplingen?
-
 ## Koppling till projektet
 
 Kapitlet täcker den första delen av [Hetaste Laget PROG](../projekt/hetaste-laget/README.md), från att få en lysdiod att blinka till att läsa sensorn och koppla upp mot Wi-Fi.
